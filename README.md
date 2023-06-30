@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levi-Michael)](https://github.com/anuraghazra/github-readme-stats)
-https://github-profile-trophy.vercel.app/?username=ClaraCrazy&theme=dracula&no-frame=false&no-bg=false&margin-w=4&rank=-C
-[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Levi-Michael)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=Levi-Michael&theme=dracula&hide_border=false)https://github-readme-streak-stats.herokuapp.com/?user=Levi-Michael&theme=dracula&hide_border=false)
+[![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=Levi-Michael&theme=dracula&no-frame=false&no-bg=false&margin-w=4&rank=-C)](https://github.com/anuraghazra/github-readme-stats)
