@@ -38,5 +38,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Levi-Michael&theme=dark&no-frame=false&no-bg=false&margin-w=4&rank=-C" width="786">
 </p>
-
-<br><br><br>
