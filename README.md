@@ -5,16 +5,18 @@
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
-- 🔭 I’m currently working on `Personal Projects - Mostly personal interest`.
+- 🔭 I’m currently working on `Personal Projects`.
 - 🌱 I’m currently learning `Pentesting` 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
-&nbsp; ∘ &nbsp; 🖼 Automation & Scripint<br>
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="18">  I enjoy working on:<br>
+&nbsp; ∘ &nbsp; 🥷 DevOps engineering and development<br>
+&nbsp; ∘ &nbsp; ☁ Cloud architecture and IT Infrastructure related Projects<br>
+&nbsp; ∘ &nbsp; 🤖 Automation & Scripint<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting<br>
-&nbsp; ∘ &nbsp; 🛠 Cloud related Projects<br>
-&nbsp; ∘ &nbsp; 🛠 IT Infrastructure related Projects<br>
-- 💬 Ask me about Powershell, Python, Security, Cloud, Networking
+- 💬 Ask me about Terraform(HCL), Cloud, Powershell, Python, Security, Networking, IT
 - 🎉 Fun-Fact: I ❤️ Dogs and Martial Arts.
+  
 <br><br>
+
 <!--
 ## ⚙️ Some Tools and Tech I use
 
