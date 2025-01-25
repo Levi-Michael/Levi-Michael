@@ -13,7 +13,6 @@
 &nbsp; ∘ &nbsp; 🤖 Automation & Scripint<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting<br>
 - 💬 Ask me about Terraform(HCL), Cloud, Powershell, Python, Bash, Security, Networking, IT
-- 🎉 Fun-Fact: I ❤️ Dogs and Martial Arts.
   
 <br>
 
